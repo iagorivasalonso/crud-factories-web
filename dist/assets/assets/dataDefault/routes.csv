@@ -1,9 +1,9 @@
 id;name;route
-1;Rutas;assets/dataDefault/routes.csv
-2;Conexiones;assets/dataDefault/connections.csv
+1;Rutas;https://crud-factories-web-2.onrender.com/assets/assets/dataDefault/routes.csv
+2;Conexiones;https://crud-factories-web-2.onrender.com/assets/assets/dataDefault/connections.csv
 3;Servidor;<EMPTY>
-4;Sectores;assets/dataDefault/sectors.csv
-5;Empresas;assets/dataDefault/factories.csv
-6;Empleados;assets/dataDefault/employees.csv
-7;Lineas;assets/dataDefault/lines.csv
-8;addresss;assets/dataDefault/mails.csv
+4;Sectores;https://crud-factories-web-2.onrender.com/assets/assets/dataDefault/sectors.csv
+5;Empresas;https://crud-factories-web-2.onrender.com/assets/assets/dataDefault/factories.csv
+6;Empleados;https://crud-factories-web-2.onrender.com/assets/assets/dataDefault/employees.csv
+7;Lineas;https://crud-factories-web-2.onrender.com/assets/assets/dataDefault/lines.csv
+8;addresss;https://crud-factories-web-2.onrender.com/assets/assets/dataDefault/mails.csv
