@@ -52318,7 +52318,9 @@ $S:477}
 A.P1.prototype={
 aa(a){var s=0,r=A.x(t.b7),q,p=this
 var $async$aa=A.y(function(b,c){if(b===1)return A.u(c,r)
-for(;;)switch(s){case 0:q=A.MU(null,p.a)
+for(;;)switch(s){case 0:s=3
+return A.q(A.MU(null,p.a),$async$aa)
+case 3:q=c
 s=1
 break
 case 1:return A.v(q,r)}})
