@@ -8582,7 +8582,7 @@ case 3:try{m=B.Y.cA(0,n)}catch(l){m=B.aZ.cA(0,n)}s=4
 break
 case 5:o=B.c.b6(a)
 if(o.length===0)o="assets/dataDefault/connections.csv"
-A.vZ().$1('\ud83d\udce6 csvImportConnections cargando asset: "'+o+'"')
+A.vZ().$1('\ud83d\udce6 csvImportConections cargando asset: "'+o+'"')
 s=6
 return A.o($.kL().oA(o),$async$aMH)
 case 6:m=c
