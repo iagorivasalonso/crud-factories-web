@@ -35034,7 +35034,7 @@ if(!d){J.afc(n,A.ay(["host",b.c,"port",b.d,"user",b.e,"password",b.f,"database",
 if(a0!=null)J.f2(n,"newDatabase",a0.b)}A.c5("========== DbApi.actionApi ==========")
 A.c5("URL: "+A.ii("https://crud-factories.onrender.com/db").j(0))
 A.c5("BODY: "+B.b8.q9(n,null))
-d=A.ii("https://crud-factories.onrender.com/db/db")
+d=A.ii("https://crud-factories.onrender.com/db")
 f=A.ay(["Content-Type","application/json"],h,h)
 s=7
 return A.k(A.aWO(d,B.b8.q9(n,null),f),$async$pp)
